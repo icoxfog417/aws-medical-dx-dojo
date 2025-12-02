@@ -10,6 +10,9 @@
 
 ## 導入に向けたセキュリティ対策
 
+医療情報ガイドラインに即した医療情報システムを AWS で実装する
+* [医療情報システム on AWS](https://speakerdeck.com/icoxfog417/medical-information-system-on-aws)
+
 医療情報ガイドラインブログシリーズ
 
 * [医療情報ガイドラインの改定から読み解くクラウド化](https://aws.amazon.com/jp/blogs/news/japan-security-guidelines-for-medical-information-systems-2023-06/)
@@ -18,7 +21,7 @@
 * [医療情報ガイドラインをクラウド上で実践する -概要編-](https://aws.amazon.com/jp/blogs/news/japan-security-guideline-for-medical-infromation-systems-2024-practice-01/)
 * [医療情報ガイドラインをクラウド上で実践する -詳説編-](https://aws.amazon.com/jp/blogs/news/japan-security-guideline-for-medical-infromation-systems-2024-practice-02/)
 
-リスクベースアプローチ: 今日モデリングの演習
+リスクベースアプローチ: 脅威モデリングの演習
 
 * [脅威モデリングの理解と実践](https://speakerdeck.com/icoxfog417/aws-threat-modeling-lecture-and-practice-for-medical)
 
